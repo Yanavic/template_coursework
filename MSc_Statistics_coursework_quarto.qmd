@@ -1,6 +1,6 @@
 ---
 title: "Coursework Template"
-subtitle: 'MSc in Statistics 2025/26, Imperial College Londonneweunfuwnfun'
+subtitle: 'MSc in Statistics 2025/26, Imperial College London'
 author: "Yana"
 format:
   html:
@@ -8,7 +8,7 @@ format:
     highlight: tango
     self-contained: true
     df-print: paged
-  pdf: default
+  pdf: default 
 format-links: false
 bibliography: "MSc_Statistics_coursework_template_quarto.bib" 
 ---
